@@ -1,0 +1,4 @@
+pandas
+PyMySQL
+mysql-replication
+mysql-connector-python
